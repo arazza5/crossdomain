@@ -89,6 +89,6 @@ var crossdomain = {
 };
 sendToJavaScript = crossdomain.callback;
 
-crossdomain.setTarget('http://www.olivierbeg.nl/');
+crossdomain.setTarget('https://www.google-analytics.com/');
 crossdomain.setFile('crossdomain.swf');
 crossdomain.create();
